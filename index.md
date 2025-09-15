@@ -11,7 +11,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 4. [As Long As the Lemon Trees Grow](ebook/As Long As the Lemon Trees Grow.pdf) - Zoulfa Katouh (2022)
 5. [The Woman in White Grangerized](ebook/The Woman in White Grangerized.pdf) - Wilkie Collins (1860)
 6. [Public Finance](ebook/Public Finance.pdf) - David N.Hayman (1960)
-7. [Managing Conflict in Organizations](ebook/Managing Conflict in Organizations.pdf) - M.Afzalur Rahim (2001)
+7. [Managing Conflict in Organizations](ebook/Managing Conflict in Organizations .pdf) - M.Afzalur Rahim (2001)
 8. [Introductory econometrics](ebook/Introductory econometrics.pdf) - Jeffrey M. Wooldridge (2013)
 9. [advanced macroeconomics](ebook/advanced macroeconomics.pdf) - Davin Romer (2012)
 10. [LIBRARIES Interior design for libraries  drawing on function and appeal](ebook/LIBRARIES Interior design for libraries  drawing on function and appeal.pdf) - Carol R.Brown (2012)

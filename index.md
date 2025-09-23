@@ -19,7 +19,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 
 ---
 
-<a href="rofiqo22.github.io/digitallibraryd/">Index</a> |
+<a href="./">Index</a>
 <a href="webti/.html.halaman1.html">Halaman 1</a> |
 <a href="webti/.html.halaman2.html">Halaman 2</a> |
 <a href="webti/.html.halaman3.html">Halaman 3</a> |
